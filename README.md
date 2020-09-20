@@ -1,6 +1,6 @@
 # Hi, I'm Mateusz 👋👨‍💻
 
-I enjoy working with Java, Golang and all stuff related with Linux 🐧.  <br>
+I enjoy working with Java, Golang and all stuff related with Linux 🐧 related technologies.  <br>
 
 
 ## Find me around the web 🌎: 
