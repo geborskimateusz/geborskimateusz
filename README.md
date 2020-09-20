@@ -9,5 +9,5 @@ I enjoy working with Java, Golang and all stuff related with Linux 🐧.  <br>
 
 <br>
 
-## Why so serious? 
-<img width="350" height="200"  src="https://github.com/geborskimateusz/geborskimateusz/blob/master/joke.png" alt="Yet another tech silly joke">
+
+<center><img width="350" height="200"  src="https://github.com/geborskimateusz/geborskimateusz/blob/master/joke.png" alt="Yet another tech silly joke"></center>
